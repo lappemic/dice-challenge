@@ -4,6 +4,8 @@
 
 This Dice Game is a simple, web-based game where two players roll dice and the one with the higher roll wins. The game is built using HTML, CSS, and JavaScript.
 
+![Application Screenshot](./images/application_screenshot.png)
+
 ## How to Play
 
 -   Open the `dicee.html` file in a web browser.
